@@ -11,9 +11,5 @@
 </p>
 
 <p align="center">
-  <img width="400" alt="logo" src="https://github.com/user-attachments/assets/e6e4fc89-8b5a-4474-8cc6-9b09bef7a8e0" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iancarscadden&layout=compact&langs_count=8&hide_title=true&card_width=500" alt="Top languages used by Ian Carscadden" />
 </p>
