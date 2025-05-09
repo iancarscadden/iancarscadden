@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <strong>DinnerParty – now live on the <a href="https://apps.apple.com/us/app/dinnerparty-experience/id6743111251">App Store</a>!</strong>
+  <strong>DinnerParty on the <a href="https://apps.apple.com/us/app/dinnerparty-experience/id6743111251">App Store</a>!</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Shira – now live on the <a href="https://apps.apple.com/us/app/shira-spanish-video-lessons/id6743010252">App Store</a>!</strong>
+  <strong>Shira on the <a href="https://apps.apple.com/us/app/shira-spanish-video-lessons/id6743010252">App Store</a>!</strong>
 </p>
 
 <p align="center">
