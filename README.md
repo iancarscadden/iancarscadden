@@ -1,18 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1b51be2f-c30c-4143-ad44-f9ef2aa3276a" width="300" alt="Shira app graphic" />
+  <br />
+  <strong>Shira – now live on the&nbsp;App&nbsp;Store!</strong>
+</p>
 
-<!--
-**iancarscadden/iancarscadden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you sta![IMG_2941](https://github.com/user-attachments/assets/1b51be2f-c30c-4143-ad44-f9ef2aa3276a)
-rted:
-![IMG_2942](https://github.com/user-attachments/assets/7f57b553-e4b8-4b4f-b113-2da389e696d8)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f57b553-e4b8-4b4f-b113-2da389e696d8" width="300" alt="DinnerParty app graphic" />
+  <br />
+  <strong>DinnerParty – now live on the&nbsp;App&nbsp;Store!</strong>
+</p>
