@@ -9,3 +9,4 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>Shira – now live on the App Store!</strong>
 </p>
+<img width="914" alt="logo" src="https://github.com/user-attachments/assets/e6e4fc89-8b5a-4474-8cc6-9b09bef7a8e0" />
