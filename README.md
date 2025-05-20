@@ -9,7 +9,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>Shira on the <a href="https://apps.apple.com/us/app/shira-spanish-video-lessons/id6743010252">App Store</a>!</strong>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iancarscadden&layout=compact&langs_count=8&hide_title=true&card_width=500" alt="Top languages used by Ian Carscadden" />
-</p>
