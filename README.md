@@ -14,3 +14,5 @@ What I care about:
 - Speech to speech AI simulations
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/iancarscadden/)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iancarscadden&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
