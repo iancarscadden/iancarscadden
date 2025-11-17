@@ -1,11 +1,16 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1b51be2f-c30c-4143-ad44-f9ef2aa3276a" width="250" alt="DinnerParty app graphic" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/7f57b553-e4b8-4b4f-b113-2da389e696d8" width="250" alt="Shira app graphic" />
-</p>
+I'm Ian
 
-<p align="center">
-  <strong>DinnerParty on the <a href="https://apps.apple.com/us/app/dinnerparty-experience/id6743111251">App Store</a>!</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Shira on the <a href="https://apps.apple.com/us/app/shira-spanish-video-lessons/id6743010252">App Store</a>!</strong>
-</p>
+21, San Diego (originally Seattle). Former SWE intern at Cluely.
+
+I like to work across the stack on consumer products.
+
+Currently building:
+Speech-to-speech sales practice app (think Hyperbound but consumer+mobile focused)
+
+What I care about:
+- Mobile apps 😊
+- Building products people actually use daily
+- IoT projects
+- Speech to speech AI simulations
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/iancarscadden/)
