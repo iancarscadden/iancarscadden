@@ -1,6 +1,6 @@
 I'm Ian
 
-21, San Diego (originally Seattle). Former SWE intern at Cluely.
+21, San Diego (originally Seattle). Prev SWE summer intern at Cluely.
 
 I like to work across the stack on consumer products.
 
