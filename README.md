@@ -10,6 +10,7 @@ Speech-to-speech sales practice app (think Hyperbound but consumer+mobile focuse
 What I care about:
 - Mobile apps (Swift & RN)
 - Building products people actually use
+- My gf
 - IoT projects
 - Speech to speech AI simulations
 
