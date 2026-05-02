@@ -8,9 +8,9 @@ Currently building:
 Speech-to-speech sales practice app (think Hyperbound but consumer+mobile focused)
 
 What I care about:
-- Mobile apps (Swift & RN)
-- Building products people actually use
 - My gf
+- Building products people actually use
+- Mobile apps (Swift)
 - IoT projects
 - Speech to speech AI simulations
 
