@@ -5,14 +5,14 @@ I'm Ian
 I like to work across the stack on consumer products.
 
 Currently building:
-Speech-to-speech sales practice app (think Hyperbound but consumer+mobile focused)
+6+ apps under [razelabs.app](https://razelabs.app)
 
 What I care about:
 - My gf
-- Building products people actually use
+- Building fun stuff
 - Mobile apps (Swift)
 - IoT projects
-- Speech to speech AI simulations
+- AI speech to speech
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/iancarscadden/)
 
