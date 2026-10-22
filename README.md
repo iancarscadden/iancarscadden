@@ -5,14 +5,13 @@ I'm Ian
 I like to work across the stack on consumer products.
 
 Currently building:
-6+ apps under [razelabs.app](https://razelabs.app)
+7+ apps under [razelabs.app](https://razelabs.app)
 
 What I care about:
 - My gf
 - Building fun stuff
 - Mobile apps (Swift)
-- IoT projects
-- AI speech to speech
+- Speech to speech interaction with AI
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/iancarscadden/)
 
