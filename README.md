@@ -5,7 +5,7 @@ I'm Ian
 I like to work across the stack on consumer products.
 
 Currently building:
-7+ apps under [razelabs.app](https://razelabs.app)
+apps under [razelabs.app](https://razelabs.app)
 
 What I care about:
 - My gf
