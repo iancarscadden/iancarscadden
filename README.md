@@ -1,8 +1,8 @@
 I'm Ian
 
-21, San Diego (originally Seattle). Prev @ [Cluely](https://www.linkedin.com/feed/update/urn:li:activity:7387529569102221312/).
+21, San Diego (originally Seattle). Prev @ [Cluely](https://www.linkedin.com/feed/update/urn:li:activity:7387529569102221312/)
 
-I like to work across the stack on consumer products.
+I like to work across the stack on consumer products
 
 Currently building:
 apps under [razelabs.app](https://razelabs.app)
